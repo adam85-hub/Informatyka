@@ -1,0 +1,31 @@
+
+(o Mesh najkonkretniej w linku nr 4)
+
+1 https://www.benchmark.pl/testy_i_recenzje/wi-fi-mesh-bez-tajemnic-jak-ustawic-jak-skonfigurowac-jak-podlaczyc.html
+
+2 https://www.benchmark.pl/testy_i_recenzje/jaki-mesh-wi-fi-wybrac-2022r.html
+
+3 https://www.nastykusieci.pl/wifi-adresy/
+
+4 https://www.nastykusieci.pl/mesh-podstawy/
+
+5 https://www.videotesty.pl/artykul/588/most-wds-wifi-jak-skonfigurowac-dwa-routery/
+
+6 https://www.atel.com.pl/slownik_produkt_ref.php?haslo=WDS
+
+7 https://pl.ateasyday.com/articles/tp-link/nastrojka-routera-tp-link-v-rezhime-mosta-wds-soedinyaem-dva-routera-po-wi-fi.html
+
+
+
+
+Mocno polecam portal nastykusieci.pl - to kopalnia wiedzy "sieciowej"
+
+Przyk³adowe artyku³y:
+
+8 https://www.nastykusieci.pl/podstawy-vpn/
+
+9 https://www.nastykusieci.pl/mity-wifi-1/
+
+10 https://www.nastykusieci.pl/nat-teoria/
+
+11 https://www.nastykusieci.pl/bgp-teoria/

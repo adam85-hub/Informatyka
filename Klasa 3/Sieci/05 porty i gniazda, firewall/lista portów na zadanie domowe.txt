@@ -1,0 +1,11 @@
+HTTP, HTTPS
+POP3
+SMTP
+IMAP
+FTP dwa
+DNS
+DHCP
+UDOST PLIKÓW I DRUKAREK
+
+
+??? tryby pracy FTP: aktywny i pasywny

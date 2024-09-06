@@ -1,0 +1,165 @@
+Dorota.Nowak.0,22.niedostateczny.txt
+£ukasz.Kowalski.0,41.dopuszczaj¹cy.txt
+Artur.Wiœniewski.0,22.niedostateczny.txt
+Krzysztof.D¹browski.0,1.niedostateczny.txt
+Sebastian.Lewandowski.0,84.dobry.txt
+Paulina.Wójcik.0,66.dostateczny.txt
+Mateusz.Kamiñski.0,83.dobry.txt
+Marcin.Kowalczyk.0,55.dostateczny.txt
+Adrian.Zieliñski.0,83.dobry.txt
+Jaros³aw.Szymañski.0,49.dopuszczaj¹cy.txt
+Sebastian.WoŸniak.0,5.dostateczny.txt
+Adam.Koz³owski.0,23.niedostateczny.txt
+Micha³.Jankowski.0,91.bardzo dobry.txt
+Krzysztof.Wojciechowski.0,42.dopuszczaj¹cy.txt
+Adam.Kwiatkowski.0,09.niedostateczny.txt
+Magdalena.Kaczmarek.0,33.dopuszczaj¹cy.txt
+Karolina.Mazur.0,64.dostateczny.txt
+Anna.Krawczyk.0,3.dopuszczaj¹cy.txt
+Kamil.Piotrowski.0,65.dostateczny.txt
+Jakub.Grabowski.0,03.niedostateczny.txt
+Pawe³.Nowakowski.0,5.dostateczny.txt
+Damian.Paw³owski.0,33.dopuszczaj¹cy.txt
+Maciej.Michalski.0,42.dopuszczaj¹cy.txt
+Bartosz.Nowicki.0,67.dostateczny.txt
+¯aneta.Adamczyk.0,9.bardzo dobry.txt
+Beata.Dudek.0,66.dostateczny.txt
+Milena.Zaj¹c.0,95.bardzo dobry.txt
+Magdalena.Wieczorek.0,94.bardzo dobry.txt
+Tomasz.Jab³oñski.0,47.dopuszczaj¹cy.txt
+Justyna.Król.0,39.dopuszczaj¹cy.txt
+Miros³aw.Majewski.0,12.niedostateczny.txt
+Bartosz.Olszewski.0,39.dopuszczaj¹cy.txt
+Adam.Jaworski.0,51.dostateczny.txt
+Justyna.Wróbel.0,16.niedostateczny.txt
+Kamil.Malinowski.0,38.dopuszczaj¹cy.txt
+Kasia.Pawlak.0,55.dostateczny.txt
+Wojciech.Witkowski.0,03.niedostateczny.txt
+Monika.Walczak.0,81.dobry.txt
+Anita.Stêpieñ.0,02.niedostateczny.txt
+Mariusz.Górski.0,76.dobry.txt
+Marcin.Rutkowski.0,15.niedostateczny.txt
+Marzena.Michalak.0,28.niedostateczny.txt
+Karolina.Sikora.0,17.niedostateczny.txt
+Grzegorz.Ostrowski.0,14.niedostateczny.txt
+Paulina.Baran.0,72.dobry.txt
+Kamila.Duda.0,47.dopuszczaj¹cy.txt
+Malwina.Szewczyk.0,07.niedostateczny.txt
+Tomasz.Tomaszewski.0,65.dostateczny.txt
+Karolina.Pietrzak.0,92.bardzo dobry.txt
+Monika.Marciniak.0,68.dostateczny.txt
+Piotr.Wróblewski.0,96.bardzo dobry.txt
+Marcin.Zalewski.0,32.dopuszczaj¹cy.txt
+Adrian.Jakubowski.0,57.dostateczny.txt
+Rafa³.Jasiñski.0,61.dostateczny.txt
+£ukasz.Zawadzki.0,27.niedostateczny.txt
+Piotr.Sadowski.0,23.niedostateczny.txt
+Mateusz.B¹k.0,97.bardzo dobry.txt
+Szymon.Chmielewski.0,58.dostateczny.txt
+Agata.W³odarczyk.0,56.dostateczny.txt
+Karol.Borkowski.0,55.dostateczny.txt
+Pawe³.Czarnecki.0,08.niedostateczny.txt
+Grzegorz.Sawicki.0,3.dopuszczaj¹cy.txt
+Jakub.Soko³owski.0,75.dobry.txt
+Marcin.Urbañski.0,82.dobry.txt
+Kasia.Kubiak.0,98.bardzo dobry.txt
+Sebastian.Maciejewski.0,42.dopuszczaj¹cy.txt
+Bartosz.Szczepañski.0,78.dobry.txt
+Krzysztof.Kucharski.0,85.bardzo dobry.txt
+Kasia.Wilk.0,4.dopuszczaj¹cy.txt
+Piotr.Kalinowski.0,21.niedostateczny.txt
+Pawe³.Lis.0,36.dopuszczaj¹cy.txt
+Piotr.Mazurek.0,63.dostateczny.txt
+Wojciech.Wysocki.0,02.niedostateczny.txt
+Bartosz.Adamski.0,88.bardzo dobry.txt
+Karolina.KaŸmierczak.0,35.dopuszczaj¹cy.txt
+Adrian.Wasilewski.0,17.niedostateczny.txt
+Justyna.Sobczak.0,17.niedostateczny.txt
+Rafa³.Czerwiñski.0,06.niedostateczny.txt
+Mateusz.Andrzejewski.0,33.dopuszczaj¹cy.txt
+Dominika.Cieœlak.0,59.dostateczny.txt
+Mariusz.G³owacki.0,55.dostateczny.txt
+Adam.Zakrzewski.0,83.dobry.txt
+Marlena.Ko³odziej.0,64.dostateczny.txt
+Pawe³.Sikorski.0,82.dobry.txt
+Micha³.Krajewski.0,23.niedostateczny.txt
+£ukasz.Gajewski.0,26.niedostateczny.txt
+Monika.Szymczak.0,48.dopuszczaj¹cy.txt
+Mateusz.Szulc.0,18.niedostateczny.txt
+Bartosz.Baranowski.0,63.dostateczny.txt
+Tomasz.Laskowski.0,98.bardzo dobry.txt
+Marek.Brzeziñski.0,16.niedostateczny.txt
+Kamil.Makowski.0,16.niedostateczny.txt
+Sylwester.Zió³kowski.0,42.dopuszczaj¹cy.txt
+Miros³aw.Przybylski.0,2.niedostateczny.txt
+£ukasz.Domañski.0,92.bardzo dobry.txt
+Jakub.Nowacki.0,93.bardzo dobry.txt
+Rafa³.Borowski.0,51.dostateczny.txt
+Marta.B³aszczyk.0,52.dostateczny.txt
+Damian.Chojnacki.0,73.dobry.txt
+Maciej.Ciesielski.0,91.bardzo dobry.txt
+Kasia.Mróz.0,74.dobry.txt
+Krzysztofa.Szczepaniak.0,23.niedostateczny.txt
+Adrian.Weso³owski.0,25.niedostateczny.txt
+Mariusz.Górecki.0,4.dopuszczaj¹cy.txt
+Agnieszka.Krupa.0,52.dostateczny.txt
+Kasia.Kaczmarczyk.0,01.niedostateczny.txt
+Szymon.Leszczyñski.0,59.dostateczny.txt
+Piotr.Lipiñski.0,66.dostateczny.txt
+Tomasz.Kowalewski.0,55.dostateczny.txt
+Natalia.Urbaniak.0,93.bardzo dobry.txt
+Sylwia.Kozak.0,02.niedostateczny.txt
+Joanna.Kania.0,06.niedostateczny.txt
+Micha³.Miko³ajczyk.0,4.dopuszczaj¹cy.txt
+Tomasz.Czajkowski.0,68.dostateczny.txt
+Edyta.Mucha.0,51.dostateczny.txt
+Ewa.Tomczak.0,96.bardzo dobry.txt
+Krzysztofa.Kozio³.0,73.dobry.txt
+Wiktor.Markowski.0,86.bardzo dobry.txt
+Kasia.Kowalik.0,84.dobry.txt
+Rafa³.Nawrocki.0,03.niedostateczny.txt
+Wiktor.Brzozowski.0,9.bardzo dobry.txt
+Magdalena.Janik.0,56.dostateczny.txt
+Karolina.Musia³.0,58.dostateczny.txt
+Tomasz.Wawrzyniak.0,32.dopuszczaj¹cy.txt
+Anna.Markiewicz.0,19.niedostateczny.txt
+Sebastian.Or³owski.0,04.niedostateczny.txt
+EMilia.Tomczyk.0,14.niedostateczny.txt
+Kasia.Jarosz.0,68.dostateczny.txt
+Kaja.Ko³odziejczyk.0,67.dostateczny.txt
+Kasia.Kurek.0,51.dostateczny.txt
+Magdalena.Kopeæ.0,4.dopuszczaj¹cy.txt
+Beata.¯ak.0,59.dostateczny.txt
+Adrian.Wolski.0,74.dobry.txt
+Monika.£uczak.0,54.dostateczny.txt
+Paulina.Dziedzic.0,58.dostateczny.txt
+Joanna.Kot.0,33.dopuszczaj¹cy.txt
+Marta.Stasiak.0,81.dobry.txt
+Mateusz.Stankiewicz.0,75.dobry.txt
+Justyna.Pi¹tek.0,53.dostateczny.txt
+Agnieszka.JóŸwiak.0,17.niedostateczny.txt
+Marta.Urban.0,33.dopuszczaj¹cy.txt
+Marcin.Dobrowolski.0,83.dobry.txt
+Agnieszka.Pawlik.0,23.niedostateczny.txt
+Sandra.Kruk.0,99.bardzo dobry.txt
+Katarzyna.Domaga³a.0,48.dopuszczaj¹cy.txt
+Rafa³.Piasecki.0,17.niedostateczny.txt
+Piotr.Wierzbicki.0,95.bardzo dobry.txt
+Jaros³aw.Karpiñski.0,32.dopuszczaj¹cy.txt
+Mariusz.Jastrzêbski.0,36.dopuszczaj¹cy.txt
+Kamila.Polak.0,99.bardzo dobry.txt
+Ma³gorzata.Ignaczak.0,46.dopuszczaj¹cy.txt
+Dominika.Franc.0,15.niedostateczny.txt
+Mariusz.Ignaczewski.0,85.bardzo dobry.txt
+Joanna.Erazmus.0,14.niedostateczny.txt
+Anna.Ignaczuk.0,09.niedostateczny.txt
+Marcin.Ignaczyñski.0,83.dobry.txt
+Joanna.Ignaczyk.0,85.bardzo dobry.txt
+Aneta.Erat.0,21.niedostateczny.txt
+Karolina.Henrysiak.0,13.niedostateczny.txt
+Robert.Henryszewski.0,05.niedostateczny.txt
+Damian.Ignaczek.0,06.niedostateczny.txt
+Adrian.Eratowski.0,28.niedostateczny.txt
+Monika.Ignaczko.0,59.dostateczny.txt
+Monika.Erad.0,47.dopuszczaj¹cy.txt
+Marlena.Erazim.0,26.niedostateczny.txt

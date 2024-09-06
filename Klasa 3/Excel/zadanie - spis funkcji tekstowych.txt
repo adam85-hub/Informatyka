@@ -1,0 +1,16 @@
+"	funkcje tekstowe:
+"		d³
+"		fragment.tekstu
+"		lewy
+"		prawy
+"		porównaj
+"		szukaj.tekst
+"		znajdŸ
+"		zast¹p
+"		z³¹cz.teksty
+"		litery.ma³e
+"		litery.wielkie
+"	wartoœæ
+"	tekst
+"	
+

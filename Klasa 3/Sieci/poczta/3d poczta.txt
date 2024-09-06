@@ -1,0 +1,12 @@
+
+
+poczta 3d TEMP na lekcje
+
+login:	klasa3d@8lo.pl
+has³o:	mejlnainfe3D
+
+serwer SMTP: lo8.nazwa.pl; port: 465 (po³¹czenie szyfrowane SSL)
+
+serwer POP3: lo8.nazwa.pl; port: 995 (po³¹czenie szyfrowane SSL)
+
+opcja "serwer (SMTP) wymaga uwierzytenienia": w³¹czyæ

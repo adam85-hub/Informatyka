@@ -1,0 +1,11 @@
+
+
+serwer:	ftp.8lo.pl
+
+user:	lo8_3d
+
+has³o:	dostep3Ddoftp
+
+
+
+ZD: zajrzyj tam do pliku zadanie.txt i wykonaj, co trzeba :)

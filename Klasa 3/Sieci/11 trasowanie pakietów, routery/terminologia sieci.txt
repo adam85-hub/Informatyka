@@ -1,0 +1,14 @@
+
+Pojêcia do przyswojenia do sprawdzianu:
+
+o routerach:
+NAT ROUTING DNS QoS WPA/WPA2/WPA3 WEP AES TKIP SSID WDS Mesh
+
+
+zabezpieczenia w sieciach LAN:
+NTFS hash md5 kerberos SHA1/SHA2
+
+
+³¹cza internetowe:
+GSM EDGE GPRS HSPA/HSDPA.. LTE
+xDSL, ADSL/VDSL
