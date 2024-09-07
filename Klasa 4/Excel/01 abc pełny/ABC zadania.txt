@@ -1,0 +1,13 @@
+
+
+a) Jaka jest d³ugoœæ najd³u¿szego s³owa w podanym zestawie?
+
+b) Jaka jest d³ugoœæ najkrótszego s³owa w podanym zestawie?
+
+c) Jaka jest ³¹czna d³ugoœæ wszystkich s³ów w podanym zestawie?
+
+d) Podaj listê wszystkich dziesiêcioliterowych s³ów uporz¹dkowanych alfabetycznie.
+
+e) Podaj listê s³ów z pliku nie zawieraj¹cych litery C uporz¹dkowanych od najkrótszego do najd³u¿szego. 
+
+f) Podaj listê s³ów zaczynaj¹cych siê od litery B, ale nie zawieraj¹cych frazy BABA i nie d³u¿szych ni¿ 20 znaków.

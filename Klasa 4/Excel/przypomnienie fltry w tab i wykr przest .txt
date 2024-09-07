@@ -1,0 +1,22 @@
+
+ró¿nica w za³o¿eniu filtru w FILTRY, a na pierwszej kolumnie: filtry etykiet, filtry wartoœci i 10 pierwszych... - to bardziej zaawansowane ni¿ odklikiwanie wartoœci
+
+
+3. ------------------------- WYKRESY PRZESTAWNE -------------------------------
+
+wstaw wykres a wstaw tabelê i wykres przestawny - bez ró¿nicy
+
+wiersze na oœ X, kolumny na legendê (jako serie danych)
+gdzie na wykresie pojawiaj¹ siê filtry ogólne (z FILTRY), gdzie te z kolumn
+
+
+UWAGA: za³o¿ony filtr etykiet, a nie widaæ odklikania w okienku !!! (pokazaæ te¿ w biblio)
+
+filtr podwójny: na obie kategorie wierszy - pokazaæ w biblio: biblioteka/status/rok >=2010
+
+tu potrzebne zwiñ i rozwiñ - jest na pierszej kolumnie
+
+
+4. ------------------------- ÆWICZENIA -------------------------
+
+wykres biblio i matura 2024 zad 7.3 (wykres z jab³kami)
