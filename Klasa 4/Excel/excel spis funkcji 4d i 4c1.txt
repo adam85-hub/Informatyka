@@ -1,0 +1,44 @@
+spis funkcji z lekcji informatyki, które obejmuje sprawdzian:
+
+	funkcje logiczne (koniunkcja, alternatywa, zaprzeczenie);
+	mod
+	suma
+	œrednia
+	licz.je¿eli
+	suma.je¿eli
+	los
+	los.zakr
+	pierwiastek
+	potêga
+	funkcje zaokr¹glania (zaokr.....)
+	liczba.ca³k
+	wyst.najczêœciej
+	suma.iloczynów
+	wyznacznik.macierzy
+	macierz.odw - macierz odwrotna
+	macierz.iloczyn
+	funkcje tekstowe:
+		d³ - d³ugoœæ tekstu
+		fragment.tekstu
+		lewy
+		prawy
+		szukaj.tekst
+		znajdŸ
+	wartoœæ
+	tekst
+	min
+	max
+	mediana
+	dzieñ.tyg
+	funkcje wyszukiwania i adresu:
+		wyszukaj
+		wyszukaj.pionowo
+		wyszukaj.poziomo
+		podaj.pozycjê
+		indeks
+
+	czas.wartoœæ, data.wartoœæ, data.ró¿nica
+	rok, miesi¹c, dzieñ, godzina, minuta, sekunda
+
+help - F1
+		
