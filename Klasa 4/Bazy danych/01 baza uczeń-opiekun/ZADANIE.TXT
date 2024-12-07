@@ -1,0 +1,24 @@
+Na dyskietce znajduj¹ siê dwa pliki tekstowe: 
+Uczniowie.txt oraz Uczen-Opiekun.txt.
+
+W pliku Uczniowie.txt zapisana jest lista uczniów - w ka¿dej linijce tego pliku znajduje siê identyfikator (numer kolejny) ucznia oraz jego imiê i nazwisko. W pliku Uczen-Opiekun.txt zapisane s¹ identyfikatory uczniów oraz imiona i nazwiska ich opiekunów. Ka¿dy uczeñ posiada tylko jednego opiekuna, natomiast opiekun mo¿e byæ przypisany do wiêcej ni¿ jednego ucznia. 
+
+Twoim zadaniem jest utworzenie pliku tekstowego o nazwie Odpowiedz.txt, zawieraj¹cego odpowiedzi na poni¿sze pytania. Obok ka¿dego pytania znajduje siê iloœæ punktów, jakie mo¿na otrzymaæ za podanie prawid³owej odpowiedzi.
+
+a) Jakie jest imiê i nazwisko opiekuna ucznia o nazwisku Bartosz Walczak? 
+- 1 pkt
+
+b) Podaj alfabetyczn¹ listê nazwisk uczennic nosz¹cych imiê Anna. (Zauwa¿, ¿e niektóre imiona uczniów zapisane s¹ w formie zdrobnia³ej.) 
+- 3 pkt
+
+c) Podaj alfabetyczn¹ listê nazwisk i imion wszystkich opiekunów (bez powtórzeñ). 
+- 3 pkt
+
+d) Podaj alfabetyczn¹ listê nazwisk i imion uczniów, którymi opiekuje siê Jan Nowak.
+ - 4 pkt
+
+e) Jakie jest imiê i nazwisko opiekuna, który opiekuje siê najwiêksz¹ liczb¹ uczniów? Podaj tê liczbê. 
+- 2 pkt
+
+f) Ilu uczniów znajduje siê pod opiek¹ kobiet? Jaki to procent wszystkich uczniów? 
+- 2 pkt
